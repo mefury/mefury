@@ -51,5 +51,5 @@ Let’s collaborate or just have a chat! Reach out to me via:
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=00C4B4" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=mefury&color=00C4B4" alt="Profile Views" />
 </div>
